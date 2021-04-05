@@ -1,0 +1,10 @@
+table {
+  max-width: 90%;
+}
+/* tr {
+  max-height: 50px;
+} */
+td {
+  max-width: 200px;
+}
+
