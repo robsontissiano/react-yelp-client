@@ -6,5 +6,5 @@ services:
       NODE_ENV: docker
     command: node_modules/.bin/nodemon --exec npm start
     ports:
-      - '3000:3000'
+      - '3006:3006'
     tty: true
